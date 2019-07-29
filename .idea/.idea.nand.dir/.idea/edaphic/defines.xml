@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SVCompilerDirectivesDefines">
+    <option name="define">
+      <map>
+        <entry key="in">
+          <value>
+            <Define>
+              <option name="dependencies">
+                <set>
+                  <DefineDependency>
+                    <option name="file" value="LogicGate.sv" />
+                  </DefineDependency>
+                </set>
+              </option>
+            </Define>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="status" value="NORMAL" />
+  </component>
+</project>
